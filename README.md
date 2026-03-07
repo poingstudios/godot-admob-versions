@@ -1,5 +1,17 @@
 # Godot AdMob Plugin - Supported Versions
 
+> **🚨 IMPORTANT ARCHIVING NOTICE – EFFECTIVE IMMEDIATELY**  
+> This repository will be **archived indefinitely** as part of the migration to a unified monorepo structure for the Godot AdMob Plugin.  
+> All future compatibility information, supported Godot versions, plugin binaries, and updates will be centralized in the main repository.  
+> → Please read the full details and discussion here:  
+> **[Issue #211 – Migrate iOS and Android repositories to a monorepo](https://github.com/poingstudios/godot-admob-plugin/issues/211)**  
+> 
+> The original plugin repositories (including Android and iOS) are also being archived.  
+> Head to the main repo for the latest releases and documentation:  
+> 👉 https://github.com/poingstudios/godot-admob-plugin
+
+---
+
 Welcome to the Godot AdMob Plugin Supported Versions repository. This repository provides an up-to-date list of the versions supported by the AdMob plugin for the Godot game engine. The plugin enables seamless integration of AdMob advertisements into your Godot projects.
 
 **Supported Versions:**
